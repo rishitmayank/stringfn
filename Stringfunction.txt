@@ -1,0 +1,8 @@
+w="Welcome123"
+# print(w.find('k',3))
+print(w.isalpha())
+w="1234"
+print(w.isdigit())
+
+w="Welcome123"
+print(w.isalnum())
